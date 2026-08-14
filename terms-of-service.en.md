@@ -6,7 +6,7 @@ lang: en
 # CatNote Terms of Service
 
 **Effective date:** August 16, 2026  
-**Developer / Service Provider:** Will Lee (李寒星)  
+**Developer / Service Provider:** Hanxing Li (李寒星)  
 **Contact email:** wow.willlee@gmail.com
 
 Welcome to CatNote (the “App”). By downloading, installing, or using the App, you agree to these Terms. If you do not agree, please do not use the App.
