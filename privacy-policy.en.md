@@ -6,7 +6,7 @@ lang: en
 # CatNote Privacy Policy
 
 **Effective date:** August 16, 2026  
-**Developer / Personal Information Handler:** Will Lee (李寒星)  
+**Developer / Personal Information Handler:** Hanxing Li (李寒星)  
 **Contact email:** wow.willlee@gmail.com
 
 Welcome to CatNote (the “App”). We value your privacy. This Privacy Policy explains how information is handled in connection with the App. Please read it before using the App.
