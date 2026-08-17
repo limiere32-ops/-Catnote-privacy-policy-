@@ -11,5 +11,5 @@ title: 喵记 CatNote · Legal Documents
 - [使用条款（简体中文）](terms-of-service.zh-CN.md)
 - [Terms of Service (English)](terms-of-service.en.md)
 
-> 本文件由李寒星（Will Lee）发布，联系邮箱：wow.willlee@gmail.com。中英文版本发生歧义时，以用户所在地区适用法律要求的版本为准。
+> 本文件由李寒星（Hanxing Li）发布，联系邮箱：wow.willlee@gmail.com。中英文版本发生歧义时，以用户所在地区适用法律要求的版本为准。
 
